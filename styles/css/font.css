@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'avenir_black';
+    src: url('../fonts/font-face/avenirltstd-black.woff2') format('woff2'),
+        url('../fonts/font-face/avenirltstd-black.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'avenir_light';
+    src: url('../fonts/font-face/avenirltstd-book.woff2') format('woff2'),
+        url('../fonts/font-face/avenirltstd-book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Hammersmith-regular';
+    src: url('../fonts/font-face/hammersmithone-regular.woff2') format('woff2'),
+        url('../fonts/font-face/hammersmithone-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'monopolyregular';
+    src: url('../fonts/font-face/monopoly_regular.woff2') format('woff2'),
+        url('../fonts/font-face/monopoly_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'monopolybold';
+    src: url('../fonts/font-face/monopoly_regular.woff') format('woff2'),
+        url('../fonts/font-face/monopoly_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,6 +1,7 @@
 @import "variables";
 @import "mixins";
 @import url(../css/normalize.css);
+@import url(../css/font.css);
 
 *{
     margin: 0;
@@ -8,6 +9,15 @@
     box-sizing: border-box;
 }
 
+.pt-100{padding-top: 100px;}
+.pb-100{padding-bottom: 100px;}
+.pt-50{padding-top: 50px;}
+.pb-50{padding-bottom: 50px;}
+.mt-100{margin-top: 100px;}
+.mb-100{margin-bottom: 100px;}
+.container {width: 90%;margin: 0 auto;}
+
 h1{
     color: red;
 }
+
